@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="record">Record</string>
+    <string name="like">Like</string>
+    <string name="books">Books</string>
+    <string name="github">GitHub</string>
+
+</resources>
